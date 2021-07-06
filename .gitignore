@@ -1,0 +1,9 @@
+# Exe
+*.exe
+
+### VS Code ###
+.vscode/
+
+### Gradle ###
+.gradle/
+/reader_rss_ssn.exe
